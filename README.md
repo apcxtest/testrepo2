@@ -1,3 +1,3 @@
 # test-repo-pub
 public repo used to test connections to cx
-readme update 6
+readme update 7
